@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hartharney
-- 👀 I’m interested in creating the most impactful products that can change society
-- 🌱 I’m currently learning frontend development getting familiar with the prerequisites
-- 💞️ I’m looking to collaborate with interesting people on projects that wake me up at night with a flood of new ideas
+- 👀 I'm all about crafting apps that turbocharge productivity and make users jump with joy. 
+- 🌱 Frontend, backend – I speak the language of both!
+- 🎯 With a dash of marketing magic and a pinch of growth-hacking wizardry, I'm your go-to guru for crafting eye-popping content and mind-blowing materials that hit the bullseye for your target audience. 
 - 📫 How to reach me? just send me a DM on IG www.instagram.com/hart_harney
 
 <!---
